@@ -100,8 +100,8 @@ Tudo o que precisa para começar é configurar o seu leitor de IPTV favorito com
 
 ### 🔗 Links para usar no seu leitor de IPTV
 
-- **M3U**: <https://m3upt.com/iptv>
-- **EPG**: <https://m3upt.com/epg> 
+- **M3U**: 
+- **EPG**:
 
 ---
 
@@ -163,7 +163,7 @@ Este leitor de IPTV simples também abre streams encriptados com DRM. Excelente 
 
 ![M3U IPTV screenshot](/images/M3U_IPTV.avif "M3U IPTV screenshot")
 
-[Download](https://m3u-ip.tv/)
+
 
 ---
 
@@ -193,7 +193,7 @@ Este é outro bom leitor para Android, mas não abre streams encriptados com DRM
 - Reprodução - Descodificador: Hardware
 - Reprodução - User-Agent: IE
 
-[⬇️ Download](https://m3upt.com/perfectplayer)
+[⬇️ Download]
 
 [🔑 Downloader](https://play.google.com/store/apps/details?id=com.esaba.downloader): 721579
 
@@ -254,12 +254,12 @@ Pode comprar um excelente aparelho já configurado e pronto a usar na [loja ofic
 
 ## 🛒 Lojas recomendadas
 
-- [AliExpress](https://m3upt.com/ae)
-- [Amazon](https://m3upt.com/amazon)
-- [eBay](https://m3upt.com/ebay)
-- [Geekbuying](https://m3upt.com/geekbuying)
-- [Banggood](https://m3upt.com/banggood)
-- [DHgate](https://m3upt.com/dhgate)
+- [AliExpress]
+- [Amazon]
+- [eBay]
+- [Geekbuying]
+- [Banggood]
+- [DHgate]
 
 Se clicar nestes links e comprar alguma coisa, eu poderei receber uma pequena comissão. Não lhe sai mais caro e assim ajuda a manter este projeto em funcionamento.
 
@@ -267,14 +267,5 @@ Se clicar nestes links e comprar alguma coisa, eu poderei receber uma pequena co
 
 Este é um projecto de código aberto.
 
-- Visite a página do projeto no [GitHub](https://github.com/LITUATUI/M3UPT).
-- Pode usar a secção [Issues](https://github.com/LITUATUI/M3UPT/issues) para reportar bugs ou links inválidos e a secção [Discussions](https://github.com/LITUATUI/M3UPT/discussions) para sugestões ou assuntos diversos.
-- No Telegram adira ao [grupo público](https://t.me/m3upt) para ficar actualizado e conversar.
-- Temos também um grupo no [Signal](https://m3upt.com/signal).
-- Apoie este projecto com a compra de uma [TV Box](https://m3upt.com/tvbox) já configurada ou com um [donativo](https://m3upt.com/donativo). O seu apoio incentiva-me a dedicar mais tempo a este projeto e dá-lhe acesso ao grupo de Telegram privado.
 
----
-
-## ⭐ Estrelas no GitHub
-
-[![Stargazers over time](https://starchart.cc/LITUATUI/M3UPT.svg?variant=adaptive)](https://github.com/LITUATUI/M3UPT)
+- Pode usar a secção para reportar bugs ou links inválidos e a secção para sugestões ou assuntos diversos.
